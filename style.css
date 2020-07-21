@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-color: #8f8b94;
+    /*background-image: url(4.jpg);*/
+    height: 800vh;
+    bckground-size: cover;
+    background-position:center;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+}
+
+.logo img{
+    float: left;
+    width: 200px;
+    height: auto;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+
